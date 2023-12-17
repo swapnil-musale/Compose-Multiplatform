@@ -7,7 +7,7 @@ androidx-appcompat = "1.6.1"
 androidx-activityCompose = "1.8.2"
 compose-uitooling = "1.5.4"
 libres = "1.2.1"
-buildConfig = "4.2.0"
+buildConfig = "5.0.0"
 kotlinx-coroutines = "1.7.3"
 
 [libraries]
